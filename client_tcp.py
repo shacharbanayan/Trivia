@@ -1,4 +1,5 @@
 import socket
+
 MAX_MSG_LENGTH = 1024
 SERVER_IP = '127.0.0.1'
 SERVER_PORT = 5555
