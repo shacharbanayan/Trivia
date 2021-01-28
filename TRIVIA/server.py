@@ -7,6 +7,7 @@ import chatlib
 import select
 
 
+
 # GLOBALS
 users = {"test" : "test"}
 questions = {}
